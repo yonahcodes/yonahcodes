@@ -1,6 +1,4 @@
-### About me 👋
-
-I'm Lazer!
+### Hi! I'm Lazer 👋
 
 - 🔭 Currently working on HarvardX CS50 course, Python for Everyone course and Freecodecamp (C, HTML, CSS, JavaScript and Python)
 - 🌱 Next semester I will be studying CS and Cyberseurity
