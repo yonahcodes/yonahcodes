@@ -4,6 +4,6 @@
 - ✏️ Learning: C, HTML, CSS, JavaScript, Python, SQL
 - 🌱 Studying Computer Science and Cyberseurity
 - 🤔 I’m looking for help with ressources and advice
-- 📫 How to reach me: fullstacklazer@gmail.com
+- 📫 How to reach me: lazerstack@gmail.com
 - ⚡ Fun fact: I'm a pilot
 
