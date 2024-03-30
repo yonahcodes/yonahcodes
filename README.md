@@ -1,4 +1,4 @@
-# Hi! I'm Lazer - Aspiring Software Developer
+# Hi! I'm Lazer 👋 - Aspiring Software Developer
 <br>
 
 - 🌍 I'm based in Montreal, Canada
