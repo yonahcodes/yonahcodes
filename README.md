@@ -1,9 +1,5 @@
-# Lazer | Aspiring Software Developer
-
-<!--Insert banner here-->
-![coding banner](img/programming-1857236_1280_banner.jpg)
-
-## Hi, I'm Lazer! 🤖
+# Hi! I'm Lazer - Aspiring Software Developer
+<br>
 
 - 🌍 I'm based in Montreal, Canada
 - 🔭 Currently working on HarvardX [CS50](https://cs50.harvard.edu/x/2024/), [PY4E](https://www.py4e.com/), and some [freeCodeCamp](https://www.freecodecamp.org/)
