@@ -4,7 +4,7 @@
 - 🌍 I'm based in Montreal, Canada
 - 🔭 Currently working on HarvardX [CS50](https://cs50.harvard.edu/x/2024/), [PY4E](https://www.py4e.com/), and some [freeCodeCamp](https://www.freecodecamp.org/)
 - 🧠 Learning: C, C++, Java, HTML, CSS, JavaScript, PHP, Python, SQL
-- 🚀 Studying Computer Science and Cyberseurity
+- 🚀 Studying Computer Science and Cybersecurity
 - 📫 You can contact me at [lazerscript@gmail.com](mailto:lazerscript@gmail.com)
 - 🛩️ Fun fact: I'm a pilot
 
