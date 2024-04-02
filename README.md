@@ -41,5 +41,9 @@
 <br>
 
 ## 🎯 Github Stats
-<p align="left">
-<a href="http://www.github.com/lazerxdev"><img src="https://github-readme-streak-stats.herokuapp.com/?      user=lazerxdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Lazer's GitHub Stats" /></a></p>
+<a href="https://github.com/lazerxdev/github-readme-stats">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=lazerxdev&show_icons=true&card_width=220&theme=github_dark" />
+</a>
+<a href="https://github.com/lazerxdev/convoychat">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazerxdev&layout=compact&langs_count=8&card_width=220&theme=github_dark" />
+</a>
