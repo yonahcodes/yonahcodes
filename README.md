@@ -44,6 +44,3 @@
 <a href="https://github.com/lazerxdev/github-readme-stats">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=lazerxdev&show_icons=true&card_width=220&theme=github_dark" />
 </a>
-<a href="https://github.com/lazerxdev/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazerxdev&layout=compact&langs_count=8&card_width=220&theme=github_dark" />
-</a>
