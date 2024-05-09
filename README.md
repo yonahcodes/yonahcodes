@@ -37,10 +37,3 @@
   <a href="https://twitter.com/lazerxdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   <a href="https://github.com/lazerxdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a>
   <a href="https://discord.com/users/1206466272334708736" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
-
-<br>
-
-## 🎯 Github Stats
-<a href="https://github.com/lazerxdev/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=lazerxdev&show_icons=true&card_width=220&theme=github_dark" />
-</a>
