@@ -1,10 +1,10 @@
-# Hi! I'm Lazer 👋 - Aspiring Software Developer
+# Hi! I'm Lazer 👋
 <br>
 
 - 🌍 Based in Montreal, Canada
-- 🔭 Currently working on HarvardX [CS50](https://cs50.harvard.edu/x/2024/), [PY4E](https://www.py4e.com/), and some [freeCodeCamp](https://www.freecodecamp.org/)
+- 🔭 Currently working on HarvardX [CS50](https://cs50.harvard.edu/x/2024/)
 - 🧠 Learning: C, C++, Java, HTML, CSS, JavaScript, PHP, Python, SQL
-- 🚀 Studying Computer Science and Cybersecurity
+- 🚀 Studying Finance & Computer Science 
 - 📫 You can contact me at [lazerxdev@gmail.com](mailto:lazerxdev@gmail.com)
 - 🛩️ Fun fact: I'm a pilot
 
