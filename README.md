@@ -3,7 +3,7 @@
 
 - 🌍 Based in Montreal, Canada
 - 🔭 Currently working on HarvardX [CS50](https://cs50.harvard.edu/x/2024/) & [CS50P](https://cs50.harvard.edu/python/2022/)
-- 🧠 Learning: C, Java, HTML, CSS, JavaScript, PHP, Python, SQL
+- 🧠 Learning: C, C++, Python, SQL, HTML, CSS, JavaScript
 - 🚀 Studying Business Analytics & Computer Science 
 - 📫 You can contact me at [lazerxdev@gmail.com](mailto:lazerxdev@gmail.com)
 - 🛩️ Fun fact: I'm a pilot
