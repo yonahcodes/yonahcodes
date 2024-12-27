@@ -26,8 +26,7 @@
   <a href="https://unity.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="36" height="36" alt="Unity"/>
   
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="36" height="36" alt="Figma"/>
-          
-          
+
 <br>
 
 ## 📱 Socials
