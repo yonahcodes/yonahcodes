@@ -3,7 +3,7 @@
 
 - 🌍 Based in Montreal, Canada
 - 🔭 Currently working on HarvardX [CS50X](https://cs50.harvard.edu/x/2025/) & [CS50P](https://cs50.harvard.edu/python/2022/)
-- 🧠 Learning: Python, C, C++, Java, HTML, CSS, JavaScript, SQL
+- 🧠 Learning: Python, C, Java, HTML, CSS, JavaScript, SQL
 - 🚀 Studying Computer Science 
 - 📫 You can contact me at [yonahcodes@gmail.com](mailto:yonahcodes@gmail.com)
 - 🛩️ Fun fact: I'm a pilot
