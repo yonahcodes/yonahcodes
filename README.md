@@ -14,7 +14,7 @@
 
 <br>
 
-<p align="left">
+<p style="display: flex; gap: 10px; align-items: center; justify-content: flex-start; text-align: left;">
   <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" height="36" alt="C"/>
   </a>
