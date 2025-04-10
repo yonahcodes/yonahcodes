@@ -1,8 +1,8 @@
-# Hi! I'm Yonah 👋
+# Hi! I'm Yonah
 <br>
 
 - 🌍 Based in Montreal, Canada
-- 🚀 Studying Computer Science at [The University of Montreal](https://diro.umontreal.ca/english/home/)
+- 🚀 Studying Computer Science at [UdeM](https://diro.umontreal.ca/english/home/)
 - 📫 You can contact me at [yonahcodes@gmail.com](mailto:yonahcodes@gmail.com)
 - 🛩️ Fun fact: I'm a pilot
 
